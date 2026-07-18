@@ -22,7 +22,7 @@ Hello! My name is Sabukhi Murshudov.
 | 01 | PCAP-анализ в Wireshark | _скоро_ | Traffic analysis, protocol inspection |
 | 03 | Event ID анализ и таймлайны инцидентов | _скоро_ | 4624/4625, 4688, timeline reconstruction |
 | 04 | PowerShell-автоматизация анализа | _скоро_ | Scripting, log parsing |
-| 05 | Splunk / SPL основы | _скоро_ | stats, eval, rex, timechart |
+| 05 | Splunk / SPL основы | [link](https://github.com/renwisub/Cybersecurity-Portfolio/tree/main/week-05-kerberoasting-investigation) | transaction, case(), incident timeline reconstruction |
 
 ## Инструменты и источники сценариев
 
